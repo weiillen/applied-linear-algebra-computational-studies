@@ -1,0 +1,6 @@
+jupyterlab
+numpy
+nltk
+matplotlib
+imageio
+Pillow
