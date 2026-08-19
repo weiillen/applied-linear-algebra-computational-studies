@@ -43,8 +43,6 @@ The preserved image-compression notebook records a 500 x 500 grayscale example r
 │   ├── 02-hamming-74-error-correction/
 │   ├── 03-3d-flat-shading/
 │   └── 04-svd-image-compression/
-├── docs/
-├── ORIGINAL_FILE_MANIFEST.tsv
 ├── requirements.txt
 └── README.md
 ```
